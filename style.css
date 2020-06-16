@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: rgb(248, 220, 225);
+    background-color: rgb(252, 215, 243);
 }
 .container{
     border-radius: 10px;
@@ -22,8 +22,12 @@ body{
     padding: 10px;
     margin-top: 10px;
     height: 70%;
-    background-color: rgba(196, 196, 255, 0.664) ;
+    background-color: rgba(149, 174, 255, 0.541) ;
 }
 .temperature-description{
     text-transform: capitalize;
+}
+.notification{
+    color:red;
+    font-size: 20px;
 }
