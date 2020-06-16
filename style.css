@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(248, 220, 225);
+}
+.container{
+    border-radius: 10px;
+    width: 260px;
+    margin: 75px auto;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    height: 50vh;
+}
+.title{
+    font-size: 40px;
+}
+.weather-container{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    height: 70%;
+    background-color: rgba(196, 196, 255, 0.664) ;
+}
+.temperature-description{
+    text-transform: capitalize;
+}
